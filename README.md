@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**kiranpuli/kiranpuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm [Kiran Puli](kiranpuli.github.io/Portfolio/) 👨‍💻
 
-Here are some ideas to get you started:
+I am a Web developer. I am passionate about technologies and love to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+### Programming Languages
+* C++
+* Python
+* Javascript
+### Frontend Development
+* React
+* Redux
+* Bootstrap
+* Material-UI
+### Backend Development
+* Nodejs
+* Express
+### Database
+* MongoDB
+* mySQL
+### Backend as a Service(BaaS)
+* Firebase
+### Software
+* Figma
+* Postman
+### Others
+* Git
+* Linux
+
+## Get in touch :raised_hands:
+- LinkedIn - [Kiran Puli](https://www.linkedin.com/in/kiran-p-40260b15b/) .
+
+
+ 
