@@ -9,7 +9,7 @@ Here are a few things I've picked up along my learning journey.
 ### Programming Languages
 * C++
 * Python
-* Javascript
+* Java
 ### Frontend Development
 * React
 * Redux
@@ -21,14 +21,15 @@ Here are a few things I've picked up along my learning journey.
 ### Database
 * MongoDB
 * mySQL
-### Backend as a Service(BaaS)
+### Cloud Services
 * Firebase
-### Software
+* Aws
+### Design
 * Figma
-* Postman
 ### Others
+* Docker
+* Kubernetes
 * Git
-* Linux
 
 ## Get in touch :raised_hands:
 - LinkedIn - [Kiran Puli](https://www.linkedin.com/in/kiran-p-40260b15b/) .
