@@ -32,7 +32,7 @@ Here are a few things I've picked up along my learning journey.
 * Git
 
 ## Get in touch :raised_hands:
-- LinkedIn - [Kiran Puli](https://www.linkedin.com/in/kiran-p-40260b15b/) .
+- LinkedIn - [Kiran](https://www.linkedin.com/in/kiran-p-40260b15b/) .
 
 
  
