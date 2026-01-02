@@ -1,60 +1,73 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Kiran
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Kiran!
+</h1>
 
-Software Engineer with 4+ years of experience in full-stack development, scalable system design, and cloud computing. Strong background in Java, React, AWS, and DevOps, with a track record of improving performance, security, and operational efficiency.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Microsoft;4%2B+years+of+Full-Stack+Experience;AWS+Certified+Solutions+Architect;Building+Scalable+Systems" alt="Typing SVG" /></a>
+</p>
 
-## 👨‍💻 Experience
+<p align="center">
+  <a href="https://www.linkedin.com/in/kiran-puli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://myeverylink.web.app/"><img src="https://img.shields.io/badge/Links-FF5722?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
 
-**Microsoft — Software Development Engineer II** (Aug 2025 – Present)
-- Implemented automated workflow processes using LLMs and Azure Graph API to enable efficient email filtering and summarization.
-- Delivered 20+ feature enhancement PRs to drive continuous product improvements.
-- Tech: Azure, React
+---
 
-**Amazon — Software Development Engineer II** (Nov 2021 – Jul 2025)
-- Architected a scalable framework for Amazon Pay Credit Card launches across Japan & EU, reducing manual deployment by 50% and accelerating time-to-market by 80%.
-- Developed a multi-locale UI system for a seamless global customer experience.
-- Designed and optimized secure APIs for customer data management.
-- Led performance tuning initiatives, cutting operational costs by 50%.
-- Implemented fraud mitigation services for credit card signup workflows.
-- Tech: Java, React, Spring Boot, AWS (ECS, EC2, Fargate)
+## 💼 Experience
 
-**Quantiphi — Framework Engineer** (Jan 2021 – Nov 2021)
-- Built a real-time ML-based video analysis system for amusement parks to reduce safety incidents.
-- Developed live monitoring metrics for traffic pattern analysis to enable real-time decision-making.
-- Optimized high-traffic services to maintain performance under peak load.
-- Tech: Python, Docker, Kubernetes, Redis, Grafana
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" height="25"/></td>
+<td><b>SDE II</b> · Aug 2025 – Present</td>
+<td><code>Azure</code> <code>React</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon&logoColor=white" height="25"/></td>
+<td><b>SDE II</b> · Nov 2021 – Jul 2025</td>
+<td><code>Java</code> <code>Spring Boot</code> <code>AWS</code> <code>React</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Quantiphi-6C63FF?style=flat-square&logo=q&logoColor=white" height="25"/></td>
+<td><b>Framework Engineer</b> · Jan – Nov 2021</td>
+<td><code>Python</code> <code>Docker</code> <code>Kubernetes</code></td>
+</tr>
+</table>
 
-## 🧰 Skills
+---
 
-**Languages:** Java, Python, JavaScript, TypeScript, C++, C, SQL
+## 🛠️ Tech Stack
 
-**Frameworks & Libraries:** Spring Boot, React, Redux, React Query, Material UI, Tailwind CSS, Node.js, Express
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp,react,redux,tailwind,spring,nodejs,express,aws,azure,gcp,docker,kubernetes,firebase,postgres,mongodb,redis,git,github&perline=11" />
+</p>
 
-**Cloud & DevOps:** AWS (ECS, EC2, Lambda, Fargate, S3), Azure, GCP, Docker, Kubernetes, Firebase, CI/CD, Git, GitHub Actions, Grafana
+---
 
-**Databases:** MySQL, PostgreSQL, MongoDB, Redis, Firestore
+## 📊 GitHub Stats
 
-**Practices:** Microservices, REST APIs, OOP, SOLID, Design Patterns, System Design, Scalability, Maintainability
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiranpuli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranpuli&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</p>
 
-## 🚀 Projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranpuli&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" />
+</p>
 
-- **Movieflixer** — movie rating & review platform (React, Firebase): https://movieflixer.web.app
-- **E-Commerce Platform** — full-stack e-commerce website (MERN): https://github.com/kiranpuli/e-Commerce
-- **Groupie** — real-time group chat (React, Firebase): https://groupie.web.app
+---
 
-Also exploring/maintaining:
-- **PrepBuddy**: https://github.com/kiranpuli/prep-buddy
-- **MyEveryLink**: https://github.com/kiranpuli/myeverylink
-- **OurCart**: https://github.com/kiranpuli/OurCart
+## 🎓 Education & Certifications
 
-## 🎓 Education
+🎓 **B.Tech in Computer Science** — IIIT Bhubaneswar (2021)
 
-**B.Tech in Computer Science & Engineering** — IIIT Bhubaneswar (2021)
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-## 🏅 Certifications
+---
 
-- AWS Certified Solutions Architect – Associate (SAA)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kiranpuli&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-## 🤝 Connect
-
-- LinkedIn: https://www.linkedin.com/in/kiran-puli/
-- Email: kiranpuli070899@gmail.com
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%" />
+</p>
