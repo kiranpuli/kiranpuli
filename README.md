@@ -1,32 +1,60 @@
-#   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Kiran 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Kiran
 
-I'm a Software Engineer passionate about web and cloud technologies.
+Software Engineer with 4+ years of experience in full-stack development, scalable system design, and cloud computing. Strong background in Java, React, AWS, and DevOps, with a track record of improving performance, security, and operational efficiency.
 
-##   Tech Stack
+## 👨‍💻 Experience
 
-Here's my tech stack:
+**Microsoft — Software Development Engineer II** (Aug 2025 – Present)
+- Implemented automated workflow processes using LLMs and Azure Graph API to enable efficient email filtering and summarization.
+- Delivered 20+ feature enhancement PRs to drive continuous product improvements.
+- Tech: Azure, React
 
-**Languages:** C++, Python, Java, JavaScript, TypeScript
+**Amazon — Software Development Engineer II** (Nov 2021 – Jul 2025)
+- Architected a scalable framework for Amazon Pay Credit Card launches across Japan & EU, reducing manual deployment by 50% and accelerating time-to-market by 80%.
+- Developed a multi-locale UI system for a seamless global customer experience.
+- Designed and optimized secure APIs for customer data management.
+- Led performance tuning initiatives, cutting operational costs by 50%.
+- Implemented fraud mitigation services for credit card signup workflows.
+- Tech: Java, React, Spring Boot, AWS (ECS, EC2, Fargate)
 
-**Frontend:** React, Redux, React Query, Material-UI, Tailwind
+**Quantiphi — Framework Engineer** (Jan 2021 – Nov 2021)
+- Built a real-time ML-based video analysis system for amusement parks to reduce safety incidents.
+- Developed live monitoring metrics for traffic pattern analysis to enable real-time decision-making.
+- Optimized high-traffic services to maintain performance under peak load.
+- Tech: Python, Docker, Kubernetes, Redis, Grafana
 
-**Backend:** Node.js, Express, Spring Boot
+## 🧰 Skills
 
-**Database:** MongoDB, MySQL
+**Languages:** Java, Python, JavaScript, TypeScript, C++, C, SQL
 
-**Cloud:** AWS, Firebase
+**Frameworks & Libraries:** Spring Boot, React, Redux, React Query, Material UI, Tailwind CSS, Node.js, Express
 
-**DevOps:** Docker, Kubernetes, Git
+**Cloud & DevOps:** AWS (ECS, EC2, Lambda, Fargate, S3), Azure, GCP, Docker, Kubernetes, Firebase, CI/CD, Git, GitHub Actions, Grafana
 
-##   About Me
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis, Firestore
 
-I focus on building scalable and efficient solutions. My expertise includes full-stack development, system design, and cloud computing.
+**Practices:** Microservices, REST APIs, OOP, SOLID, Design Patterns, System Design, Scalability, Maintainability
 
-I share my technical insights and experiences on my Medium blog:
+## 🚀 Projects
 
-* [Kiran Puli on Medium](https://medium.com/@kiranpuli)
+- **Movieflixer** — movie rating & review platform (React, Firebase): https://movieflixer.web.app
+- **E-Commerce Platform** — full-stack e-commerce website (MERN): https://github.com/kiranpuli/e-Commerce
+- **Groupie** — real-time group chat (React, Firebase): https://groupie.web.app
 
-##   Get in touch
+Also exploring/maintaining:
+- **PrepBuddy**: https://github.com/kiranpuli/prep-buddy
+- **MyEveryLink**: https://github.com/kiranpuli/myeverylink
+- **OurCart**: https://github.com/kiranpuli/OurCart
 
-* LinkedIn: [Kiran Puli](https://www.linkedin.com/in/kiran-p-40260b15b/)
-* Portfolio: [kiranpuli.github.io/portfolio/](https://kiranpuli.github.io/portfolio/)
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering** — IIIT Bhubaneswar (2021)
+
+## 🏅 Certifications
+
+- AWS Certified Solutions Architect – Associate (SAA)
+
+## 🤝 Connect
+
+- LinkedIn: https://www.linkedin.com/in/kiran-puli/
+- Email: kiranpuli070899@gmail.com
