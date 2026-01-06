@@ -11,7 +11,6 @@
   <a href="https://myeverylink.web.app/kiran"><img src="https://img.shields.io/badge/MyEveryLink-38BDF8?style=for-the-badge&logo=link&logoColor=white" /></a>
 </p>
 
----
 
 ## 💼 Experience
 
@@ -33,7 +32,7 @@
 </tr>
 </table>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -41,27 +40,24 @@
   <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp,react,redux,tailwind,spring,nodejs,express,aws,azure,gcp,docker,kubernetes,firebase,postgres,mongodb,redis,git,github&perline=11" />
 </p>
 
----
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranpuli&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" />
-</p>
+## 📊 Contribution
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+
 
 ## 🎓 Education & Certifications
 
-🎓 **B.Tech in Computer Science** — IIIT Bhubaneswar (2021)
+**B.Tech in Computer Science** — IIIT Bhubaneswar (2021)
 
 <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiranpuli&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%" />
